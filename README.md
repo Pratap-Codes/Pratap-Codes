@@ -1,4 +1,4 @@
-<img align="left" alt="Coder GIF" height="300" width="500" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="center" alt="Coder GIF" height="350" width="600" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 
 # 💫 About Me:
